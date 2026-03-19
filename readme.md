@@ -1,7 +1,7 @@
 <h1 align="center">Serra Verde Gramas | E-commerce (Projeto Integrador II)</h1>
 
 <p align="center">
-  <b>Front-end de um e-commerce com interatividade em JavaScript</b>
+  <a href="https://rogermorony.github.io/projeto-integrador-II/"><b>Visite o site</b></a>
 </p>
 
 <p align="center">
