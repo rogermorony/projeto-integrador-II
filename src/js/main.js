@@ -17,7 +17,7 @@ if (botaoCarrinho && tituloProduto && precoProduto) {
 
     const textoBotao = document.querySelector(".btn-text");
     if (textoBotao) {
-      textoBotao.innerText = "✓ ADICIONADO AO CARRINHO";
+      textoBotao.innerText = "ADICIONADO AO CARRINHO";
     }
   });
 }
